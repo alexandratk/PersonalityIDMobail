@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.188" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/layout/activity_list_marks.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/layout/activity_list_moving_pupil.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/layout/activity_list_pupil.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/layout/activity_profile.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/layout/activity_profile_activivty.xml" value="0.2871376811594203" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/layout/activity_timetable.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/layout/list_mark_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/layout/list_moving_pupil_item.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/layout/list_pupil_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/layout/list_pupils.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/layout/list_timetable_item.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/menu/back_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/menu/main_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/menu/search_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/android/AndroidStudioProjects/PersonalityIDMobail/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

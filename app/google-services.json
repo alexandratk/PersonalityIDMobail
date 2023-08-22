@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "167332102974",
+    "firebase_url": "https://apzmobail-default-rtdb.firebaseio.com",
+    "project_id": "apzmobail",
+    "storage_bucket": "apzmobail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167332102974:android:0e16b109c236187116e26f",
+        "android_client_info": {
+          "package_name": "com.example.personalityidmobail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167332102974-aff9abb9p5mvr2ckogdu996rirud60mn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personalityidmobail",
+            "certificate_hash": "61c4a77172eb44cba15802d2f1642ede4ecc1f04"
+          }
+        },
+        {
+          "client_id": "167332102974-4vh07jpt8bebfr3hp9rmc54sf851ukuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnHLtdXJPmRS00goQztLWQq8OHUaPqhBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167332102974-4vh07jpt8bebfr3hp9rmc54sf851ukuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

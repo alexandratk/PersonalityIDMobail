@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PersonalityIDMobile</string>
+    <string name="local_service_started">12</string>
+    <string name="local_service_stopped">Stop</string>
+    <string name="local_service_label">Info</string>
+    <string name="local_service_connected">Connected to service</string>
+    <string name="local_service_disconnected">Disconnected from service</string>
+    <string name="Auth">Authorization</string>
+    <string name="Login">Login</string>
+    <string name="Password">Password</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="Id">ID</string>
+    <string name="Group">GROUP</string>
+    <string name="Moving">Moving</string>
+    <string name="Marks">Marks</string>
+    <string name="Message">Message</string>
+    <string name="pupil_in_the_school">pupil in the school</string>
+    <string name="pupil_out_of_school">pupil out of school</string>
+</resources>
